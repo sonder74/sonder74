@@ -10405,8 +10405,7 @@ h3 {
     padding: 4rem 0;
   }
   .masthead {
-    /* padding-top: calc(2rem + 74px); */
-    padding-top: 8rem;
+    padding-top: calc(2rem + 74px);
     padding-bottom: 4rem;
   }
   .masthead-subheading {
