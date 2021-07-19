@@ -10426,6 +10426,7 @@ h3 {
   }
   .masthead-avatar-mobile {
     width: 16rem;
+    padding-top: 8rem;
     display: block;
   }
   .masthead-heading-mobile {
