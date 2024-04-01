@@ -10176,14 +10176,14 @@ h3 {
 }
 .page-section .page-section-heading {
   font-size: 3rem;
-  line-height: 3rem;
+  line-height: 2.75rem;
   /* letter-spacing: 0.1em; */
   /* letter-spacing: 0.08em; */
   letter-spacing: 0.001em;
 }
 .page-section-heading-mobile {
   font-size: 2rem;
-  /* line-height: 3rem; */
+  line-height: 2rem;
   /* letter-spacing: 0.1em; */
   /* letter-spacing: 0.08em; */
   /* letter-spacing: 0.001em; */
@@ -10191,7 +10191,7 @@ h3 {
 @media (min-width: 992px) {
   .page-section .page-section-heading {
     font-size: 3rem;
-    line-height: 2.5rem;
+    line-height: 2.75rem;
   }
 }
 
@@ -10536,7 +10536,7 @@ h3 {
 }
 @media (min-width: 992px) {
   .portfolio-modal .portfolio-modal-title {
-    font-size: 2rem;
+    font-size: 2.25rem;
     line-height: 2rem;
   }
 }
