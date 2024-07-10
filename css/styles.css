@@ -438,6 +438,7 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 1.75rem;
+  /* font-weight: 650; */
 }
 
 h4, .h4 {
@@ -542,6 +543,11 @@ mark,
 }
 
 .img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-fluid-modal {
   max-width: 100%;
   height: auto;
 }
@@ -1729,11 +1735,17 @@ pre code {
   margin-bottom: 1rem;
   color: #212529;
 }
+
+.table-title {
+  font-size: 23px;
+  font-weight: 700;
+}
+
 .table th,
 .table td {
   padding: 0.75rem;
   vertical-align: top;
-  border-top: 0.125rem solid #dee2e6;
+  /* border-top: 0.125rem solid #dee2e6; */
 }
 .table thead th {
   vertical-align: bottom;
